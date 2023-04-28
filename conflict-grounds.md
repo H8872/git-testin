@@ -1,1 +1,1 @@
-Add weapon of bass destruction :C
+Add weapon of bass deztruction :DDDD
