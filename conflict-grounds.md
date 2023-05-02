@@ -3,3 +3,4 @@ removed most traces of nuclear residue
 Add weapon of bass deztruction :DDDD
 
 Power of the bass cannon
+FIRE
