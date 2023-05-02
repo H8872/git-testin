@@ -2,7 +2,3 @@ Add weapon of mass destruction, launch, 3,2... countdown stopped, goose on launc
 removed most traces of nuclear residue
 Add weapon of bass deztruction :DDDD
 All your base are belong to us
-removed most traces of nuclear residue
-
-
-
