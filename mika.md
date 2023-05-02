@@ -1,11 +1,3 @@
-# Hello Wolr!
+amazing, turly.
 
-kissat koiria :DDD
->hoi
-<<<<<<< HEAD
-koirat lehemiä
-=======
-
-#hasan 
-
-ebin changes made :)
+#ebin changes made :)
